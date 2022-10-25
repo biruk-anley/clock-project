@@ -55,7 +55,7 @@ def clock_hanger():
     analog.penup()
     analog.goto(-120,220)
     analog.color("black")
-    analog.write("   CLOCK " , font=("Calibri" ,18,"bold"))
+    analog.write("   CLOCK Made by BIRUK ANLEY" , font=("Calibri" ,18,"bold"))
     analog.penup()
     analog.goto(-10,220)
     analog.pendown()
